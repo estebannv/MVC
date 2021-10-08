@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/estebannv/prueba.git"
+    "url": "git+https://github.com/estebannv/MVC.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/estebannv/prueba/issues"
+    "url": "https://github.com/estebannv/MVC/issues"
   },
-  "homepage": "https://github.com/estebannv/prueba#readme",
+  "homepage": "https://github.com/estebannv/MVC#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^6.0.9"
